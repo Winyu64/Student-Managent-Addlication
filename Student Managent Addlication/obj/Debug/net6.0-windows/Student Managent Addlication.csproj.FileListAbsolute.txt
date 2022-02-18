@@ -1,0 +1,17 @@
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student_Managent_Addlication.Form1.resources
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student Managent Addlication.csproj.GenerateResource.cache
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student Managent Addlication.GeneratedMSBuildEditorConfig.editorconfig
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student Managent Addlication.AssemblyInfoInputs.cache
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student Managent Addlication.AssemblyInfo.cs
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student Managent Addlication.csproj.CoreCompileInputs.cache
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student Managent Addlication.csproj.AssemblyReference.cache
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\bin\Debug\net6.0-windows\Student Managent Addlication.exe
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\bin\Debug\net6.0-windows\Student Managent Addlication.deps.json
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\bin\Debug\net6.0-windows\Student Managent Addlication.runtimeconfig.json
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\bin\Debug\net6.0-windows\Student Managent Addlication.dll
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\bin\Debug\net6.0-windows\ref\Student Managent Addlication.dll
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\bin\Debug\net6.0-windows\Student Managent Addlication.pdb
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student Managent Addlication.dll
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\ref\Student Managent Addlication.dll
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student Managent Addlication.pdb
+E:\โปรเจก\ล่าสุด1\Student Managent Addlication\Student Managent Addlication\obj\Debug\net6.0-windows\Student Managent Addlication.genruntimeconfig.cache
